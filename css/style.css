@@ -327,6 +327,9 @@ body {
   .button{
     width: 100%;
   }
+    .subscrib-button {
+      padding: -20px;
+  }
 }
 @media (min-width: 1200px) {
   .tabs-item:not(:last-child) {
